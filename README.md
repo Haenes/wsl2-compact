@@ -5,6 +5,8 @@ simplify the process of compressing virtual disks storing Linux distros for WSL2
 There are two types of scripts here in case it's not possible to use, for example, .ps1, but you can use .bat.\
 I would recommend using .bat scripts, just because they are easier to run.
 
+Tested with Ubuntu 22.04 and docker engine (not Docker Desktop).
+
 ## Manual compression
 1) Batch:
    Run compress.bat as admin and follow instructions;
