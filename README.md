@@ -1,0 +1,1 @@
+# wsk2-compact
